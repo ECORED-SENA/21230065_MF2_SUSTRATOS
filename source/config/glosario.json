@@ -1,0 +1,67 @@
+[
+  {
+    "letter": "A",
+    "terms": [
+      {
+        "title": "Ácidos Húmicos",
+        "desciption": "Son sustancias orgánicas complejas presentes en el suelo, especialmente en la porción de materia orgánica, cuando ésta se encuentra en su estado más avanzado de descomposición."
+      },
+      {
+        "title": "Anclaje",
+        "desciption": "Propiedad que brindan los sustratos para mantener las plantas erguidas y de esta manera lograr su normal crecimiento y desarrollo."
+      }      
+    ]
+  },
+  {
+    "letter": "D",
+    "terms": [
+      {
+        "title": "Desarrollo Sostenible",
+        "desciption": "Es la capacidad de producir de una manera en que no se atenta contra los recursos naturales y se obtienen los productos necesarios para satisfacer las necesidades detectadas."
+      }     
+    ]
+  }, 
+  {
+    "letter": "F",
+    "terms": [
+      {
+        "title": "Fitotoxicidad",
+        "desciption": "Es el efecto negativo, es decir, tóxico que se puede causar sobre las plantas debido a diversos factores."
+      }   
+    ]
+  },
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "Participación Comunitaria",
+        "desciption": "Es la organización de una comunidad con el fin de lograr un objetivo particular, generalmente, apuntando a conseguir un mayor bienestar."
+      },
+      {
+        "title": "Población Vulnerable",
+        "desciption": "Es un grupo de personas que por una condición propia, se encuentran expuestos a padecer algún factor negativo dentro de la sociedad en la cual se encuentran inmersos."
+      },
+      {
+        "title": "Producción Limpia",
+        "desciption": "Producción agrícola realizada sin utilizar productos químicos que puedan llegar a causar algún impacto negativo a las personas que los producen, a los consumidores o al medio ambiente."
+      }
+    ]
+  },
+  {
+    "letter": "S",
+    "terms": [
+      {
+        "title": "Seguridad Alimentaria",
+        "desciption": "Estado que consigue un individuo o grupo de individuos cuando puede acceder a alimentos de forma permanente y oportuna, con la calidad y en la cantidad apropiadas para su consumo y que le brinden bienestar."
+      },
+      {
+        "title": "Sustrato Mineral",
+        "desciption": "Material utilizado para el anclaje y desarrollo de las plantas, el cual es obtenido de rocas o minerales de diversos orígenes."
+      },
+      {
+        "title": "Sustrato Orgánico",
+        "desciption": "Material utilizado para el anclaje, desarrollo y nutrición de las plantas, que se caracteriza por sufrir procesos de descomposición bioquímica de gran beneficio para los cultivos."
+      }
+    ]
+  }
+]

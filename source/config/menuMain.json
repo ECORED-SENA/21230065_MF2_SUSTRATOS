@@ -1,0 +1,148 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },  
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "Introducción",
+    "path": "pages/introduccion.html"
+  }, 
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "zonas-produccion",
+    "title": "1. Zonas de producción",
+    "path": "pages/tema-1.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "zonas-produccion",
+        "title": "1.1 Zonas blandas",
+        "anchor": "tema-11"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "zonas-produccion",
+        "title": "1.2 Zonas duras",
+        "anchor": "tema-12"
+      }      
+    ]
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "operaciones",
+    "title": "2. Operaciones para mejorar las propiedades de los sustratos",
+    "path": "pages/tema-2.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "operaciones",
+        "title": "2.1  Mejorar la retención de agua y la mojabilidad",
+        "anchor": "tema-21"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "operaciones",
+        "title": "2.2 Corregir el pH",
+        "anchor": "tema-22"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "operaciones",
+        "title": "2.3 Corrección de la salinidad",
+        "anchor": "tema-23"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "operaciones",
+        "title": "2.4 Corrección de la nutrición",
+        "anchor": "tema-24"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "operaciones",
+        "title": "2.5 Mezcla del sustrato",
+        "anchor": "tema-25"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "limpieza",
+    "title": "3. Limpieza del sustrato",
+    "path": "pages/tema-3.html"  
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "desinfeccion",
+    "title": "4. Desinfección del sustrato",
+    "path": "pages/tema-4.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "desinfeccion",
+        "title": "4.1 Tratamiento con agua caliente",
+        "anchor": "tema-41"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "desinfeccion",
+        "title": "4.2 Biofumigación",
+        "anchor": "tema-42"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "desinfeccion",
+        "title": "4.3 Con vapor de agua",
+        "anchor": "tema-43"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "desinfeccion",
+        "title": "4.4 Con productos químicos",
+        "anchor": "tema-44"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "desinfeccion",
+        "title": "4.5 Con energía solar",
+        "anchor": "tema-45"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-file-text-o",
+    "slug": "equipos-requeridos",
+    "title": "5. Equipos y materiales requeridos en agricultura urbana",
+    "path": "pages/tema-5.html",
+    "submenu": [
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "equipos-requeridos",
+        "title": "5.1 Equipos y materiales para riego",
+        "anchor": "tema-51"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "equipos-requeridos",
+        "title": "5.2 Equipos y materiales para desinfección",
+        "anchor": "tema-52"
+      },
+      {
+        "icon": "fa fa-file-text-o",
+        "slug": "equipos-requeridos",
+        "title": "5.3 Equipos y materiales para manejo de los cultivos",
+        "anchor": "tema-53"
+      }
+    ]
+  },
+  {
+    "icon": "fa fa-play-circle",
+    "slug": "proteccion-personal",
+    "title": "6. Equipo de protección personal",
+    "path": "pages/tema-6.html"
+  }  
+]
