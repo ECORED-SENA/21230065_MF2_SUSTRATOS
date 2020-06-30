@@ -140,7 +140,7 @@
     ]
   },
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "proteccion-personal",
     "title": "6. Equipo de protección personal",
     "path": "pages/tema-6.html"
