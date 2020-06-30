@@ -1,23 +1,19 @@
 [
   {
-    "letter": "A",
+    "letter": "C",
     "terms": [
       {
-        "title": "Ácidos Húmicos",
-        "desciption": "Son sustancias orgánicas complejas presentes en el suelo, especialmente en la porción de materia orgánica, cuando ésta se encuentra en su estado más avanzado de descomposición."
-      },
-      {
-        "title": "Anclaje",
-        "desciption": "Propiedad que brindan los sustratos para mantener las plantas erguidas y de esta manera lograr su normal crecimiento y desarrollo."
-      }      
+        "title": "Capa cultivable",
+        "desciption": "Porción superficial del suelo con mayor contenido de nutrientes y materia orgánica, lo que la hace tener propiedades de deseables para la agricultura."
+      }  
     ]
   },
   {
-    "letter": "D",
+    "letter": "E",
     "terms": [
       {
-        "title": "Desarrollo Sostenible",
-        "desciption": "Es la capacidad de producir de una manera en que no se atenta contra los recursos naturales y se obtienen los productos necesarios para satisfacer las necesidades detectadas."
+        "title": "Enmienda agrícola",
+        "desciption": "Sustancias o compuestos que adicionan al suelo con el fin de mejorar sus propiedades físicas o químicas."
       }     
     ]
   }, 
@@ -25,25 +21,48 @@
     "letter": "F",
     "terms": [
       {
-        "title": "Fitotoxicidad",
-        "desciption": "Es el efecto negativo, es decir, tóxico que se puede causar sobre las plantas debido a diversos factores."
+        "title": "Fertirrigación",
+        "desciption": "Proceso por medio del cual se le suministran a las plantas agua mezclada con los nutrientes requeridos para su desarrollo."
       }   
+    ]
+  },
+  {
+    "letter": "L",
+    "terms": [
+      {
+        "title": "Lixiviados",
+        "desciption": "Sustancias resultantes del proceso por medio del cual un fluido pasa a través del sólido de manera lenta. En agricultura urbana, es el líquido de riego resultante después de pasar por el sustrato."
+      }
+    ]
+  },
+  {
+    "letter": "M",
+    "terms": [
+      {
+        "title": "Mojabilidad",
+        "desciption": "Es la capacidad de los líquidos cuando entran en  contacto con los sólidos de extenderse por la superficie y dejar trazas."
+      }
+    ]
+  },
+  {
+    "letter": "O",
+    "terms": [
+      {
+        "title": "Organismos benéficos",
+        "desciption": "Enemigos naturales de algunas plagas y enfermedades, lo que proporciona características de resistencia en las plantas."
+      }
     ]
   },
   {
     "letter": "P",
     "terms": [
       {
-        "title": "Participación Comunitaria",
-        "desciption": "Es la organización de una comunidad con el fin de lograr un objetivo particular, generalmente, apuntando a conseguir un mayor bienestar."
+        "title": "Patógenos",
+        "desciption": "Organismos causantes de alguna enfermedad."
       },
       {
-        "title": "Población Vulnerable",
-        "desciption": "Es un grupo de personas que por una condición propia, se encuentran expuestos a padecer algún factor negativo dentro de la sociedad en la cual se encuentran inmersos."
-      },
-      {
-        "title": "Producción Limpia",
-        "desciption": "Producción agrícola realizada sin utilizar productos químicos que puedan llegar a causar algún impacto negativo a las personas que los producen, a los consumidores o al medio ambiente."
+        "title": "Problemas fitosanitarios",
+        "desciption": "Desórdenes de origen patogénico que suceden en los vegetales, puede ser debidos a diferentes microorganismos como hongos, bacterias o virus entre otros."
       }
     ]
   },
@@ -51,17 +70,18 @@
     "letter": "S",
     "terms": [
       {
-        "title": "Seguridad Alimentaria",
-        "desciption": "Estado que consigue un individuo o grupo de individuos cuando puede acceder a alimentos de forma permanente y oportuna, con la calidad y en la cantidad apropiadas para su consumo y que le brinden bienestar."
-      },
-      {
-        "title": "Sustrato Mineral",
-        "desciption": "Material utilizado para el anclaje y desarrollo de las plantas, el cual es obtenido de rocas o minerales de diversos orígenes."
-      },
-      {
-        "title": "Sustrato Orgánico",
-        "desciption": "Material utilizado para el anclaje, desarrollo y nutrición de las plantas, que se caracteriza por sufrir procesos de descomposición bioquímica de gran beneficio para los cultivos."
+        "title": "Sistema radicular",
+        "desciption": "Porción subterránea de la planta constituida por la raíz principal, la raíces secundarias y los pelos absorbentes, que tiene como función tomar el agua y nutrientes que la planta necesita."
       }
     ]
-  }
+  },
+  {
+    "letter": "T",
+    "terms": [
+      {
+        "title": "Trazado del cultivo",
+        "desciption": "Es la distribución de las plantas dentro del lote, la cual obedece a diferentes factores como la forma del lote y la especie vegetal entre otros."
+      }
+    ]
+  }    
 ]

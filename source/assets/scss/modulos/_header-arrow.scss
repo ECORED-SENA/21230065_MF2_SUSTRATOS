@@ -1,11 +1,11 @@
 .header-arrow {
   position: relative;
-  background-color:  $brand-color-light;
+  background-color:  $brand-color-secondary;
   padding: 2rem;
 
   h1,h2,h3 {
       margin: 0;
-      color: $text-color-light;      
+      color: $primary;      
   }
 
 }
@@ -16,7 +16,7 @@
     transition: all .3s ease;
     border-style: solid;
     border-width: 25px 25px 0px 25px;
-    border-color:  $brand-color-light transparent transparent transparent;
+    border-color:  $brand-color-secondary transparent transparent transparent;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
