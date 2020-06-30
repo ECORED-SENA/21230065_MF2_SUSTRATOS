@@ -6,7 +6,7 @@
     "path": "index.html"
   },  
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "introduccion",
     "title": "Introducción",
     "path": "pages/introduccion.html"
